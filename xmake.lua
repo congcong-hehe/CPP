@@ -1,4 +1,5 @@
 add_rules("mode.debug", "mode.release")
+-- add_requires("pybind11")
 
 set_languages("c++17")
 
